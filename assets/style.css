@@ -1,0 +1,112 @@
+.body{
+    background-color: #2A2B2DFF;
+    font-size: 36px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.top{
+    color: #2A2B2DFF;
+    background-color: #d9514eff;
+    height: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+    border: 3px solid #2da8d8ff;
+}
+
+.name{
+    display: inline;
+    font-size: 12px;
+}
+
+.list{
+    display: inline;
+    font-size: 18px;
+    float: right;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.project1{
+    color: #2A2B2DFF;
+    background-color: #d9514eff;
+    height: 200px;
+    padding: 10px;
+    margin: 25px;
+    border: 3px solid #2da8d8ff;
+    font-size: 20px;
+}
+
+.project2{
+    color: #2A2B2DFF;
+    background-color: #d9514eff;
+    height: 200px;
+    padding: 10px;
+    margin: 25px;
+    border: 3px solid #2da8d8ff;
+    font-size: 20px;   
+}
+
+.project3{
+    color: #2A2B2DFF;
+    background-color: #d9514eff;
+    height: 200px;
+    padding: 10px;
+    margin: 25px;
+    border: 3px solid #2da8d8ff;
+    font-size: 20px;
+}
+
+.bio{
+    color: #2A2B2DFF;
+    background-color: #d9514eff;
+    height: 250px;
+    width: 500px;
+    margin: 25px;
+    border: 3px solid #2da8d8ff;
+    display: flex;
+    float: left;
+}
+
+.biotitle{
+    font-size: 20px;
+}
+
+.biotext{
+    font-size: 15px;
+}
+
+.contact{
+    color: #2A2B2DFF;
+    background-color: #d9514eff;
+    height: 200px;
+    width: 250px;
+    margin: 25px;
+    border: 3px solid #2da8d8ff;
+    display: flex;
+    float: right;
+}
+
+.contacttitle{
+    font-size: 20px;
+    float: left;
+}
+
+.contacttext{
+    font-size: 15px;
+    float: left;
+}
+
+.bottom{
+    color: #2A2B2DFF;
+    background-color: #d9514eff;
+    height: 50px;
+    width: 800px;
+    margin: auto;
+    padding: 10px;
+    border: 3px solid #2da8d8ff;
+}
+
+.bottomtext{
+    font-size: 20px;
+    justify-content: center;
+}
